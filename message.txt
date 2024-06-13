@@ -1,0 +1,1 @@
+Ipak se moze komunicirati preko Github-a
