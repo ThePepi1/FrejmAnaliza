@@ -114,6 +114,6 @@ print("Ip Receiver: " + frame.DestinationIP)
 print("Protocol: " + str(frame.Protocol))
 print("Source Port: " + str(frame.SourcePort))
 print("Destination Port: " + str(frame.DestinationPort))
-
+print("IHLP: " + str(frame.IHLP))
 
 
